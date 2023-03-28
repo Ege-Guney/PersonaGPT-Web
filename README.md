@@ -7,7 +7,7 @@ Opensource model link can be found here: https://huggingface.co/af1tang.
 John is a chatbot that has a personality attached to it. Discover what John likes and dislikes through this web app.
 
 # Download
-Copy this repo and run the app.
+Copy this repo and run the app. OR with docker file, create docker image and run it.
 
 # Screenshots
 <img width="1271" alt="Screenshot 2023-03-27 at 15 39 21" src="https://user-images.githubusercontent.com/119132789/228049420-0e0cd6fd-5431-4640-add8-971473a57561.png">
